@@ -13,91 +13,91 @@
 // {}
 
 
-// const age = 4;
-// if(age){
-//     console.log("Condition is true");
-// }
-// else{
-//     console.log("Condition is false");
-// }
+const age = 4;
+if(age){
+    console.log("Condition is true");
+}
+else{
+    console.log("Condition is false");
+}
 
 
-// const name = " ";
-// if(name){
-//     console.log("Condition is true");
-// }
-// else{
-//     console.log("Condition is false");
-// }
+const name = " ";
+if(name){
+    console.log("Condition is true");
+}
+else{
+    console.log("Condition is false");
+}
 
 
-// let name;
-// console.log(name);
-// if(name){
-//     console.log("Condition is true");
-// }
-// else{
-//     console.log("Condition is false");
-// }
+let name;
+console.log(name);
+if(name){
+    console.log("Condition is true");
+}
+else{
+    console.log("Condition is false");
+}
 
 
-// let name = NaN;
-// console.log(name);
-// if(name){
-//     console.log("Condition is true");
-// }
-// else{
-//     console.log("Condition is false");
-// }
+let name = NaN;
+console.log(name);
+if(name){
+    console.log("Condition is true");
+}
+else{
+    console.log("Condition is false");
+}
 
 
-// let name = NaN;
-// console.log(name);
-// if(name){
-//     console.log("Condition is true");
-// }
-// else{
-//     console.log("Condition is false");
-// }
+let name = NaN;
+console.log(name);
+if(name){
+    console.log("Condition is true");
+}
+else{
+    console.log("Condition is false");
+}
 
 
-// let name = [];
-// console.log(name);
-// if(name){
-//     console.log("Condition is true");
-// }
-// else{
-//     console.log("Condition is false");
-// }
+let name = [];
+console.log(name);
+if(name){
+    console.log("Condition is true");
+}
+else{
+    console.log("Condition is false");
+}
 
 
-// let name = {};
-// console.log(name);
-// if(name){
-//     console.log("Condition is true");
-// }
-// else{
-//     console.log("Condition is false");
-// }
+let name = {};
+console.log(name);
+if(name){
+    console.log("Condition is true");
+}
+else{
+    console.log("Condition is false");
+}
 
-// let name = false;
-// console.log(name);
-// if(name){
-//     console.log("Condition is true");
-// }
-// else{
-//     console.log("Condition is false");
-// }
+let name = false;
+console.log(name);
+if(name){
+    console.log("Condition is true");
+}
+else{
+    console.log("Condition is false");
+}
 
 
-// let name = false;
-// console.log(name);
-// if(name){
-//     console.log("Condition is true");
-// }
-// else{
-//     console.log("Condition is false");
-// }
+let name = false;
+console.log(name);
+if(name){
+    console.log("Condition is true");
+}
+else{
+    console.log("Condition is false");
+}
 
 
 let name = 1;
